@@ -10,7 +10,9 @@ Uthevet del, altså `sc1234.srv7.snartonline.no` er ditt midlertidige domenenavn
 2. Trykk på **Mine domener** og deretter på ønsket domene.
 3. Trykk på fanen **DNS-pekere**, og deretter på **Vis avanserte innstillinger**
 4. Du skal opprette 3 pekere og du må trykke på lagre (grønn hake til høyre) for hver linje i skjemaet. (Du må lagre en og en peker - det går ikke an å fylle inn mange på en gang og lagre.)
-5. Når du er ferdig med å sette opp pekerne så tar det litt tid før det er oppdatert i DNS-systemet. Send en epost til [vår utvikler](mailto:mads@komplettnettbutikk.no?subject=Domeneoppsett) for å si ifra om at du ønsker 
+5. Send en epost til [vår utvikler](mailto:mads@komplettnettbutikk.no?subject=Nettbutikkens+nye+domene) for å gi beskjed om hvilket domene du skal benytte.
+
+Når du er ferdig med å sette opp pekerne så tar det litt tid før det er oppdatert i DNS-systemet. 
 
 ### Peker 1
 - **Vertsnavn:** skal være blank 
