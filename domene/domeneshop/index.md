@@ -37,10 +37,7 @@ _PS: Hermetegnene må være med._
 
 
 
-
-
-# Eksempel på oppsett:
-![eksempel.png]({{site.baseurl}}/domene/domeneshop/eksempel.png)
+[Trykk her for å se et eksempel på ferdig oppsett](/domene/domeneshop/eksempel.png)
 
 
 **PS:** Dersom du synes dette er vanskelig, eller allerede har domeneoppsett mot en annen nettside, epost eller liknende kan du ta kontakt med oss for hjelp til riktig oppsett. Dette er kostnadsfritt for førstegangsoppsett. Send i såfall din innloggingsinformasjon og ønsket domenenavn til  [vår utvikler](mailto:mads@komplettnettbutikk.no?subject=Domeneoppsett)
